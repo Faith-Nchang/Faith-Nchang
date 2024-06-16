@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faith Nchang</h1>
-<h3 align="center">A aspiring AI/Software developer from the USA</h3>
+<h3 align="center">An aspiring AI/Software developer from the USA</h3>
 
 - 🔭 I’m currently working on **Google Route Finder Simulator**
 
