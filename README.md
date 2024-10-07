@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Faith Nchang</h1>
 <h3 align="center">An aspiring AI/Software developer from the USA</h3>
 
-- 🔭 I’m currently working on **Expense Ease**
+- 🔭 I’m currently working on **SmartBudget**
 
-- 🌱 I’m currently learning **JavaScript, C#**
+- 🌱 I’m currently learning ** C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Faith-Nchang](https://github.com/Faith-Nchang)
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Java, Python, and Javascript**
 
 - 📫 How to reach me **nchangfru@gmail.com**
 
