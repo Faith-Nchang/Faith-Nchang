@@ -9,6 +9,3 @@
 🚀 Built real-world apps 
 
 📫 Let’s connect 
-
-## Contributions
-https://github.com/pulls?q=is%3Apr+author%3AFaith-Nchang+archived%3Afalse+is%3Aclosed
