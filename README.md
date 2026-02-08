@@ -1,10 +1,10 @@
 📚 Computer Science at the University of Maryland, College Park
 
-💻 Interested in Full-stack Development, Machine Learning, and Healthcare AI
+💻 Interested in Full-stack Development, Machine Learning, and Fintech
 
 🤖 AI/ML Fellow @ BreakThroughTech (Cornell Tech)
 
-🤖 Software Engineer Intern @Code For The Community
+🤖 Incoming Software Engineer Intern @JPMC
 
 🚀 Built real-world apps 
 
